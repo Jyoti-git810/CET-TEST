@@ -1,0 +1,6 @@
+export const COLLECTION_ID = {
+  FIB: "FIB_QUESTIONS",
+  MCQ: "MCQ_QUESTIONS",
+  MCQ1: "MCQ_QUESTIONS",
+  "True/False": "BOOLEAN_QUESTIONS",
+};
